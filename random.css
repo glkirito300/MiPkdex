@@ -1,0 +1,178 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    background-color: rgb(213, 112, 226);
+   background: cadetblue;
+}
+.lh{
+    text-align: center; 
+    font-size: 100px; 
+    font-family: cursive;
+    color: rgb(231, 228, 19);
+ display: inline-block;
+}
+
+
+
+
+ 
+.imgn{
+    height: 250%;
+    width: 200px;
+    
+}
+
+.img2{
+    height: 100px;
+    width: 100px;
+
+}
+
+.imgif{
+    height: 100px;
+    width: 100px;
+
+}
+.logo{
+    height: 200px;
+    width: 500px;
+}
+
+
+
+
+
+
+
+.contenedor{
+    text-align: center;
+    margin: 25px auto;
+    height: 300px;
+    width: 350px;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-direction: column;
+}
+.contenedor input{
+    text-align: center;
+    color: rgb(231, 228, 19);
+    font-size: 35px;
+    font-family: cursive;
+    border-radius: 25px;
+    background-color: rgb(74, 74, 221);
+    
+}
+.contenedor button{
+    margin-top: 40px;
+    margin-bottom: -30px;
+    color: rgb(161, 6, 6);
+    background-color: turquoise;
+font-size: 40px;
+font-family: cursive;
+cursor: pointer;
+text-shadow: cyan;
+display: inline-block;
+}
+.pokemon{
+    width: 150px;
+    height: 150px;
+    margin: 40px auto;
+    display: inline-block;
+  
+   
+}
+p{
+    margin-top: -60px;
+}
+
+button{
+    border-radius: 25px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width:767px){
+
+.lh{
+    font-size: 25px;
+}
+.imgn{
+    height: 75%;
+    width: 50px;
+}
+
+.logo{
+    height: 50px;
+    width: 100px;
+}
+
+}
+
+/* > = 767px  &  > = 1024px  */ 
+@media screen and (min-width:768px) and (max-width:1024px){
+
+  
+
+
+
+
+
+
+
+
+
+    
+}
+
+@media screen and (min-width:1025px){
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
